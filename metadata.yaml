@@ -1,0 +1,35 @@
+_repo: Historia-de-Gil-Blas-de-Santillana-Novela-Vol-3-de-3-Novela_55796
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Isla, P.
+    gutenberg_agent_id: '48518'
+    url: http://www.gutenberg.org/2009/agents/48518
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Sage, Alain René Le
+    - Lesage, Alain-René
+    - Sage, Alain-René le
+    - Le Sage, Alain Rene
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+description: ''
+gutenberg_issued: '2017-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55796'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Historia de Gil Blas de Santillana: Novela (Vol 3 de 3)
+
+  Novela'
+url: http://www.gutenberg.org/ebooks/55796
